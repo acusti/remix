@@ -12,7 +12,6 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@cloudflare/kv-asset-handler": "^0.3.2",
     "@remix-run/cloudflare": "*",
     "@remix-run/react": "*",
     "@remix-run/server-runtime": "*",
